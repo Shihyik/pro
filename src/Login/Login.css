@@ -1,0 +1,13 @@
+.login{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.middle{
+    /* width: 50%; */
+    margin: 0 auto;
+    width: 50%;
+}
+div{
+    padding: 10px;
+}

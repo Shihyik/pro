@@ -1,0 +1,35 @@
+.left{
+    width: 30%;
+}
+.mid{
+    width: 40%;
+    margin: 20px;
+}
+.leftside{
+    list-style: none;
+}
+.leftside li{
+    padding: 20px;
+}
+.leftside li a {
+    text-decoration: none;
+}
+.body-frame{
+    width: 80%;
+    margin: 0 auto;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(209, 157, 15);
+    border-radius: 50%;
+}
+.right{
+    width: 30%;
+  
+}
+.right-mid{
+    display: flex;
+    justify-content: center;
+
+}
