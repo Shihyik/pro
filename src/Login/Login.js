@@ -1,6 +1,5 @@
 import './Login.css'
 
-
 function Register() {
   return (
     <>

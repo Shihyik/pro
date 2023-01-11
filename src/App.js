@@ -4,7 +4,7 @@ import VertifyToSeller from './VertifyToSeller/VertifyToSeller'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
-  return <VertifyToSeller />
+  return <Login />
 }
 
 export default App

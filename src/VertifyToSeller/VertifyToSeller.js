@@ -1,4 +1,6 @@
 import './VertifyToSeller.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHouse } from '@fortawesome/free-solid-svg-icons'
 
 function VertifyToSeller() {
   return (
@@ -6,7 +8,10 @@ function VertifyToSeller() {
       <div className="text-center fw-bold h4">驗證成賣家</div>
       <div className="d-flex body-frame">
         <div className="left">
-          <div>首頁/會員中心/驗證成賣家</div>
+          <div>
+            <FontAwesomeIcon icon={faHouse} /> 
+            首頁/會員中心/驗證成賣家
+          </div>
           <div>
             <ul className="leftside">
               <li>
